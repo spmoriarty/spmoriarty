@@ -37,7 +37,7 @@ dynamic drop-downs and a random quote generator.</p>
 
 <details><summary>
 Dungeons and Maybe Dragons</summary>
-Go to Project[Demo](https://deploy-preview-8--jolly-starship-a2f617.netlify.app/)
+<a href="https://deploy-preview-8--jolly-starship-a2f617.netlify.app">Go To the Demo</a>
 <p>A character sheet generator for D&D for new players.
 MOB coded during a 5 day sprint week implementing a
 dynamic list from APIs that allows you to store personalized
