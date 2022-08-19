@@ -7,7 +7,7 @@ My past experience in social work instilled an ethos of community and communicat
 
 
 <p text-align="center">
-### Tech Stack
+Tech Stack:
 HTLM 5
 JavaScript
 CSS3
@@ -21,6 +21,12 @@ Node
 Material UI
 PostgreSQL/SQL
 </p>
+****
+### Past Projects
+* PosiCreate
+
+* Dungeons and Maybe Dragons
+
 
 ### Find me on [Linkedin](linkedin.com/in/seanmoriarty1).
 
