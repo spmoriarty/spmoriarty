@@ -5,9 +5,9 @@
 ### About
 My past experience in social work instilled an ethos of community and communication, and the need for both when interacting in a professional space. As I move into a career in full stack development, my motivation is to bring the experiences and challenges my clients had navigating their respective needs with my knowledge from the field into a space where technology can help meet those needs or adapt programs to do just that.
 
-
-<p text-align="center">
-Tech Stack:
+<details><summary>Tech Stack</summary>
+<p>
+```
 HTLM 5
 JavaScript
 CSS3
@@ -20,8 +20,13 @@ React
 Node
 Material UI
 PostgreSQL/SQL
+```
 </p>
-****
+</details>
+
+
+
+
 ### Past Projects
 * PosiCreate
 
