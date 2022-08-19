@@ -27,11 +27,24 @@ My past experience in social work instilled an ethos of community and communicat
 
 ### Past Projects
 <details><summary>
-* PosiCreate</summary>
+PosiCreate</summary>
 LINK
+<p>A motivational application providing positive quotes, healthy
+activities and a personal journal.
+MOB coded during a 5 day sprint week utilizing full CRUD,
+dynamic drop-downs and a random quote generator.</p>
 </details>
 
-* Dungeons and Maybe Dragons
+<details><summary>
+Dungeons and Maybe Dragons/summary>
+LINK
+<p>A character sheet generator for D&D for new players.
+MOB coded during a 5 day sprint week implementing a
+dynamic list from APIs that allows you to store personalized
+characters, and update them based on different campaigns
+or storylines.
+</p>
+</details>
 
 
 
