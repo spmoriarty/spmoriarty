@@ -36,7 +36,7 @@ dynamic drop-downs and a random quote generator.</p>
 </details>
 
 <details><summary>
-Dungeons and Maybe Dragons/summary>
+Dungeons and Maybe Dragons</summary>
 LINK
 <p>A character sheet generator for D&D for new players.
 MOB coded during a 5 day sprint week implementing a
