@@ -7,9 +7,8 @@ My past experience in social work instilled an ethos of community and communicat
 
 <details><summary>Tech Stack</summary>
 <p>
-```
-HTLM 5
-JavaScript
+- HTLM 5
+- JavaScript
 CSS3
 Express
 Context
@@ -20,7 +19,6 @@ React
 Node
 Material UI
 PostgreSQL/SQL
-```
 </p>
 </details>
 
