@@ -9,16 +9,16 @@ My past experience in social work instilled an ethos of community and communicat
 <p>
 - HTLM 5
 - JavaScript
-CSS3
-Express
-Context
-JEST
-TDD
-Serialization
-React
-Node
-Material UI
-PostgreSQL/SQL
+- CSS3
+- Express
+- Context
+- JEST
+- TDD
+- Serialization
+- React
+- Node
+- Material UI
+- PostgreSQL/SQL
 </p>
 </details>
 
@@ -26,9 +26,13 @@ PostgreSQL/SQL
 
 
 ### Past Projects
-* PosiCreate
+<details><summary>
+* PosiCreate</summary>
+LINK
+</details>
 
 * Dungeons and Maybe Dragons
+
 
 
 ### Find me on [Linkedin](linkedin.com/in/seanmoriarty1).
