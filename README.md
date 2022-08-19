@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 
 
 
-How to reach me: ...
-Find me on [Linkedin](linkedin.com/in/seanmoriarty1).
+### How to reach me: ...
+### Find me on [Linkedin](linkedin.com/in/seanmoriarty1).
 
 
 
