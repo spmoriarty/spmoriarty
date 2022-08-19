@@ -8,7 +8,7 @@ My past experience in social work instilled an ethos of community and communicat
 
 <p text-align="center">
 ### Tech Stack
-* HTLM 5
+* **HTLM 5**
 * JavaScript
 * CSS3
 * Express
