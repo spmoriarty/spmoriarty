@@ -28,7 +28,7 @@ My past experience in social work instilled an ethos of community and communicat
 ### Past Projects
 <details><summary>
 PosiCreate</summary>
-LINK
+[Go to Project Demo](https://inquisitive-trifle-b4e711.netlify.app/index.html)
 <p>A motivational application providing positive quotes, healthy
 activities and a personal journal.
 MOB coded during a 5 day sprint week utilizing full CRUD,
@@ -37,7 +37,7 @@ dynamic drop-downs and a random quote generator.</p>
 
 <details><summary>
 Dungeons and Maybe Dragons</summary>
-LINK
+[Go to Project Demo](https://deploy-preview-8--jolly-starship-a2f617.netlify.app/)
 <p>A character sheet generator for D&D for new players.
 MOB coded during a 5 day sprint week implementing a
 dynamic list from APIs that allows you to store personalized
