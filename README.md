@@ -28,7 +28,7 @@ My past experience in social work instilled an ethos of community and communicat
 ### Past Projects
 <details><summary>
 PosiCreate</summary>
-Go to Project [Demo](https://inquisitive-trifle-b4e711.netlify.app/index.html)
+<a href="https://inquisitive-trifle-b4e711.netlify.app/index.html">Go To the Demo</a>
 <p>A motivational application providing positive quotes, healthy
 activities and a personal journal.
 MOB coded during a 5 day sprint week utilizing full CRUD,
