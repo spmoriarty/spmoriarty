@@ -19,6 +19,7 @@ My past experience in social work instilled an ethos of community and communicat
 - Node
 - Material UI
 - PostgreSQL/SQL
+- E2E / Supertest
 </p>
 </details>
 
@@ -46,7 +47,13 @@ or storylines.
 </p>
 </details>
 
-
+<details><summary>
+Fisherman API</summary>
+<a href="fishapiforyou.herokuapp.com/">Go To the Demo</a>
+<p>An express back end with seeded SQL tables and full CRUD that allows a searchable 
+database by species and matches it with commercial and recreational regulations. Deployed on Heroku.
+</p>
+</details>
 
 ### Find me on [Linkedin](linkedin.com/in/seanmoriarty1).
 
